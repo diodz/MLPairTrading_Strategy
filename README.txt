@@ -1,0 +1,20 @@
+Included with the submission:
+
+- Pitchbook.pdf of presentation slides
+- Technical paper.ipynb notebook of technical analysis
+- Sarmento Horta 2019.pdf & Gatev Goetzmann Rouwenhorst 2006.pdf:
+academic papers most relevant to our strategy
+- util.py source code library with all the methods, classes, and 
+mechanics of the trading strategy
+- data folder with data downloaded or produced through the strategy
+
+
+Note: Only the ff3.csv file with Fama french factors is necessary to
+execute the code. All the other data parts can be downloaded directly by 
+executing the code. However, pkl files are included to avoid running code
+that download data and results of heavy data processing parts to allow
+for testing specific parts of the strategy.
+
+
+Student name: Diego A. Diaz
+Student id: 12248985
