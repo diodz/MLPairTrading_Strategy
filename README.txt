@@ -10,7 +10,7 @@ mechanics of the trading strategy
 
 
 Note: Only the ff3.csv file with Fama french factors is necessary to
-execute the code. All the other data parts can be downloaded directly by 
+execute the code. All the other data can be downloaded directly by 
 executing the code. However, intermediate data files (pkl) are included to avoid running code
 that downloads data for faster execution and modular testing.
 
