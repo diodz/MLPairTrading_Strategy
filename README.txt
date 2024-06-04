@@ -1,4 +1,4 @@
-Included with the submission:
+Included with this submission:
 
 - Pitchbook.pdf of presentation slides
 - Technical paper.ipynb notebook of technical analysis
