@@ -1,6 +1,6 @@
 The following is included with this submission:
 
-- Pitchbook.pdf of presentation slides
+- Pitchbook.pdf of presentation slides detailing the trading strategy
 - Technical paper.ipynb notebook of technical analysis
 - Sarmento Horta 2019.pdf & Gatev Goetzmann Rouwenhorst 2006.pdf:
 academic papers most relevant to our strategy
