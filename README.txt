@@ -1,4 +1,4 @@
-The following is included with this submission:
+The following files are included with this submission:
 
 - Pitchbook.pdf of presentation slides detailing the trading strategy
 - Technical paper.ipynb notebook of technical analysis
